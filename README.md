@@ -4,19 +4,19 @@
 
 Submitted by: **Jestkie N.**
 
-Time spent : **X** hours spent in total
+Time spent : **5:00** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete :
 
-*[x] User can navigate the available slots.
+*[x] User can navigate the available slots.\
 *[x] User can check if there is still available slots.
 
 The following **optional** features are implemented:
 
-*[ ] UI animations
-*[ ] Shows available slots
+*[ ] UI animations\
+*[ ] Shows available slots\
 *[ ] Navigate the arera is vacant
 
 ## How to Use
