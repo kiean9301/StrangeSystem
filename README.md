@@ -22,7 +22,6 @@ The following **optional** features are implemented:
 ## How to Use
 
 Follow the instructions:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 <img src= 'https://imgur.com/gallery/IUqZjxu'>
 
