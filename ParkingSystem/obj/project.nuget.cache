@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iUTt2U16sG7aYjNeNih5sVCnoOgirhzxZY7hd0IhzQUvDqfRtUK2SjeQdE4I1lgRqIDp8J6DEdg94F+oy6Cr0g==",
+  "dgSpecHash": "xc2CiVbKIHP7uCyBX31H0Q9leYlKv/9TsXxe1JAo6K3woIUUYMPv0kKmVJJplX5pcFi6U4Jzhkf7spVJ63g32Q==",
   "success": true,
-  "projectFilePath": "T:\\VS-Respository\\ParkingSystem\\ParkingSystem\\ParkingSystem.csproj",
+  "projectFilePath": "T:\\VS-Respository\\StrangeSystem\\ParkingSystem\\ParkingSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BeeezZz\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\BeeezZz\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

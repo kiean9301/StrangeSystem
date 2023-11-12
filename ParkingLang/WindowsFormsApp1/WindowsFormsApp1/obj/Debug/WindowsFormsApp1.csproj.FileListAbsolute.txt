@@ -1,0 +1,17 @@
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+T:\VS-Respository\StrangeSystem\ParkingLang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
