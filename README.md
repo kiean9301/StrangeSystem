@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## How to Use
 
 Follow the instructions:
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 <img src= 'https://imgur.com/gallery/IUqZjxu'>
 
@@ -31,6 +32,5 @@ For faster and reliable spot to park.
 
 ## License
 
-Copy right [yyyy] [name of copyright owner]
+Copy right [2030] [iTyrqrtz]
 
-iTyrqrtz
